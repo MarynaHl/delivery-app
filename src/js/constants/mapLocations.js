@@ -1,0 +1,6 @@
+export const CENTER = { lat: 49.842957, lng: 24.031111 };
+export const VENDORS_LOCATIONS = {
+  McDonalds: { lat: 49.836403147340874, lng: 24.024587805040753 },
+  KFC: { lat: 49.82225954126067, lng: 23.96787104770506 },
+  BurgerKING: { lat: 49.964986974857794, lng: 19.87070522351074 },
+};
